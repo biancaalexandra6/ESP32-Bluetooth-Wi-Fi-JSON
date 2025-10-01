@@ -1,0 +1,2 @@
+- Developed a wireless communication system using ESP32 with Bluetooth and Wi-Fi to connect a mobile app with a microcontroller.
+- Implemented HTTP GET requests to fetch data from a web server, processed it in JSON format, and sent it back to the app. Gained hands-on experience in IoT development, wireless communication, and real-time data handling.
